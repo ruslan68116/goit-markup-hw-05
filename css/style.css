@@ -582,6 +582,7 @@ img {
 
 .portfolio-link {
   display: block;
+  transition: box-shadow var(--overlay-on-page);
 }
 
 .portfolio-link:hover,
